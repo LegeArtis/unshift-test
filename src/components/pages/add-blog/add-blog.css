@@ -1,0 +1,33 @@
+.add_blog_form {
+}
+
+.add_blog_title {
+    height: 30px;
+    padding-left: 5px;
+    width: 350px;
+    font-size: 25px;
+}
+
+.add_blog_text {
+    margin-top: 25px;
+    resize: none;
+    width: 500px;
+    height: 150px;
+    font-size: 20px;
+    border: #242424 1px solid;
+    padding: 5px;
+}
+
+.add_blog_button {
+    margin-top: 25px;
+    font-size: 25px;
+    height: 35px;
+    width: 150px;
+}
+
+.center {
+    display: block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}

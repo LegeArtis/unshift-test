@@ -1,0 +1,19 @@
+.app_header {
+    font-size: 20px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 370px;
+    margin: 25px 0;
+}
+
+.app_link {
+    color: #F7C78A;
+    padding: 5px 8px;
+}
+
+.app_header a {
+    display: inline-block;
+    background-color: #242424;
+    margin-left: 20px;
+}

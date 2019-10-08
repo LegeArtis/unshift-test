@@ -1,0 +1,23 @@
+a {
+    text-decoration: none;
+    color: #242424;
+}
+
+.all_blog_element {
+    list-style: none;
+    text-align: center;
+    font-size: 25px;
+    margin: 8px 0;
+    border: #242424 1px solid;
+    padding: 7px;
+    background-color: #F7C78A;
+}
+
+.all_blog_list {
+    padding: 0;
+    width: 600px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
