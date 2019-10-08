@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/unshift-test/precache-manifest.f1b3e28776057ab0a4c0f56a1a81515b.js"
+  "/unshift-test/precache-manifest.07532bc11239a0fe42979af03f7303a0.js"
 );
 
 self.addEventListener('message', (event) => {
