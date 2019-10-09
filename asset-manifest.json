@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/unshift-test/static/css/main.499c570d.chunk.css",
-    "main.js": "/unshift-test/static/js/main.6cfe9211.chunk.js",
-    "main.js.map": "/unshift-test/static/js/main.6cfe9211.chunk.js.map",
+    "main.js": "/unshift-test/static/js/main.5189f925.chunk.js",
+    "main.js.map": "/unshift-test/static/js/main.5189f925.chunk.js.map",
     "runtime-main.js": "/unshift-test/static/js/runtime-main.8a99b872.js",
     "runtime-main.js.map": "/unshift-test/static/js/runtime-main.8a99b872.js.map",
-    "static/js/2.d64523ea.chunk.js": "/unshift-test/static/js/2.d64523ea.chunk.js",
-    "static/js/2.d64523ea.chunk.js.map": "/unshift-test/static/js/2.d64523ea.chunk.js.map",
+    "static/js/2.e9fc5e5d.chunk.js": "/unshift-test/static/js/2.e9fc5e5d.chunk.js",
+    "static/js/2.e9fc5e5d.chunk.js.map": "/unshift-test/static/js/2.e9fc5e5d.chunk.js.map",
     "index.html": "/unshift-test/index.html",
-    "precache-manifest.5c6aec8548d51ff5fd4da12d5c3b5bc5.js": "/unshift-test/precache-manifest.5c6aec8548d51ff5fd4da12d5c3b5bc5.js",
+    "precache-manifest.7362fd0502f7fd384808103b6921d053.js": "/unshift-test/precache-manifest.7362fd0502f7fd384808103b6921d053.js",
     "service-worker.js": "/unshift-test/service-worker.js",
     "static/css/main.499c570d.chunk.css.map": "/unshift-test/static/css/main.499c570d.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.8a99b872.js",
-    "static/js/2.d64523ea.chunk.js",
+    "static/js/2.e9fc5e5d.chunk.js",
     "static/css/main.499c570d.chunk.css",
-    "static/js/main.6cfe9211.chunk.js"
+    "static/js/main.5189f925.chunk.js"
   ]
 }
