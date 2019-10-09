@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const AppHeader = () => {
     return (
         <div className='app_header'>
-            <Link to={`/`}>
+            <Link to={`/main`}>
                 <h1 className='app_link'>All blog </h1>
             </Link>
             <Link to={`/add-blog`}>

@@ -72,7 +72,7 @@ class BlogItem extends Component {
         }
 
         if (redirect) {
-            return <Redirect to='/' />
+            return <Redirect to='/main' />
         }
 
         if ( errorLink) {

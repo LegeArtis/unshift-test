@@ -14,7 +14,7 @@ ReactDOM.render(
     <Provider store={store}>
         <ErrorBoundry>
             <BlogstoreServiceProvider value={blogstoreService}>
-                <Router>
+                <Router basename='/unshift-test'>
                     <App />
                 </Router>
             </BlogstoreServiceProvider>

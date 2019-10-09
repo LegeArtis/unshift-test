@@ -11,7 +11,7 @@ const App = () => {
     return (
         <div className='main'>
             <AppHeader/>
-            <Route path='/' exact component={AllBlog} />
+            <Route path='/main' exact component={AllBlog} />
             <Route path='/add-blog' exact component={AddBlog} />
             <Route path='/posts/:id' exact component={({ match }) => {
                 return <BlogItem blogId={match.params.id} />; }} />
